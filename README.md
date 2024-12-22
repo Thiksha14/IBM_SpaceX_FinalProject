@@ -11,12 +11,12 @@ SpaceX is a revolutionary company who has disrupt the space industry by offering
 
 **TABLE OF CONTENTS**
 
-Data Collection with API
-Data Collection with Web Scraping
-Data Wrangling
-EDA with SQL
-EDA with Visulaization Lab
-Interactive Visual Analytics with Folium
-Dashboard Application (Code)
-Predictive Analysis - Machine Learning Lab
-Final Presentation (Slide)
+- Data Collection with API
+- Data Collection with Web Scraping
+- Data Wrangling
+- EDA with SQL
+- EDA with Visulaization Lab
+- Interactive Visual Analytics with Folium
+- Dashboard Application (Code)
+- Predictive Analysis - Machine Learning Lab
+- Final Presentation (Slide)
